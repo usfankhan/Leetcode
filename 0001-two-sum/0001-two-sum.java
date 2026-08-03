@@ -8,7 +8,8 @@ class Solution {
                 if(hashs.containsKey(diff)){
                     return new int[]{hashs.get(diff),i};
                 }
-                hashs.put(nums[i],i);
+                                hashs.put(nums[i],i);
+
              }
              return new int[]{};
            }
