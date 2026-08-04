@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/usfankhan/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/usfankhan/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/usfankhan/Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/usfankhan/Leetcode/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/usfankhan/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/usfankhan/Leetcode/tree/master/0344-reverse-string) |
 | [3340-check-balanced-string](https://github.com/usfankhan/Leetcode/tree/master/3340-check-balanced-string) |
 ## Sorting
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/usfankhan/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/usfankhan/Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/usfankhan/Leetcode/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
