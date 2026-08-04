@@ -32,17 +32,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/usfankhan/Leetcode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/usfankhan/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/usfankhan/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/usfankhan/Leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/usfankhan/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/usfankhan/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/usfankhan/Leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/usfankhan/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/usfankhan/Leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/usfankhan/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/usfankhan/Leetcode/tree/master/0169-majority-element) |
 ## Linked List
 |  |
 | ------- |
@@ -67,4 +70,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/usfankhan/Leetcode/tree/master/0344-reverse-string) |
 | [3340-check-balanced-string](https://github.com/usfankhan/Leetcode/tree/master/3340-check-balanced-string) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/usfankhan/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/usfankhan/Leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/usfankhan/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
