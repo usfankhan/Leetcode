@@ -64,4 +64,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/usfankhan/Leetcode/tree/master/0344-reverse-string) |
+| [3340-check-balanced-string](https://github.com/usfankhan/Leetcode/tree/master/3340-check-balanced-string) |
 <!---LeetCode Topics End-->
