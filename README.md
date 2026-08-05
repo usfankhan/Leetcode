@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/usfankhan/Leetcode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/usfankhan/Leetcode/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/usfankhan/Leetcode/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/usfankhan/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/usfankhan/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Dynamic Programming
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/usfankhan/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/usfankhan/Leetcode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/usfankhan/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/usfankhan/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/usfankhan/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3731-find-missing-elements](https://github.com/usfankhan/Leetcode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/usfankhan/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/usfankhan/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/usfankhan/Leetcode/tree/master/0242-valid-anagram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/usfankhan/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/usfankhan/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3731-find-missing-elements](https://github.com/usfankhan/Leetcode/tree/master/3731-find-missing-elements) |
 ## Counting
