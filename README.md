@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/usfankhan/Leetcode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/usfankhan/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/usfankhan/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0704-binary-search](https://github.com/usfankhan/Leetcode/tree/master/0704-binary-search) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/usfankhan/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3731-find-missing-elements](https://github.com/usfankhan/Leetcode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/usfankhan/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0704-binary-search](https://github.com/usfankhan/Leetcode/tree/master/0704-binary-search) |
 ## Matrix
 |  |
 | ------- |
